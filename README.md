@@ -203,5 +203,5 @@ streamlit run app/app.py
 ## Clone Repository
 
 ```bash
-git clone <your-github-link>
+git clone https://github.com/sugunthanG/Smart-Product-Recommendation-Personalized-Shopping-Intelligence-System.git
 
